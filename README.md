@@ -1,12 +1,14 @@
-# Brainwave_Matrix_Interns
-# Inventory Management System
+# 🧠 Brainwave Matrix Internship
 
-Python desktop app with GUI and database to manage items and stock levels.
+This repository contains the tasks and projects completed during my Data Science / AI virtual internship at Brainwave Matrix Solutions.
 
-## Files
-- `main.py` – starts the app (`init_db()` then `start_gui()`).
-- `database.py` – creates tables and handles DB operations.
-- `inventory.py` – inventory logic (items, quantities).
-- `gui.py` – user interface for adding and viewing products.
+## Contents
+- Exploratory data analysis notebooks
+- Data cleaning and preprocessing scripts
+- Mini machine learning experiments
+- Reports and notes from weekly tasks
 
-## Run
+## Tech Stack
+- Python (pandas, NumPy, matplotlib)
+- Jupyter Notebook
+- Basic ML algorithms
